@@ -9,6 +9,10 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	
 	
+	<h1 style="color: violet; font-size: 40px;" align="center">HEY ROHIT HERE</h1>
+	<h1 style="color: red; font-size: 40px;" align="center">IM FROM VIZAG</h1>
+	<h1 style="color: green; font-size: 40px;" align="center">8977774499</h1>
+	<h1 style="color: pink; font-size: 40px;" align="center"></h1>
 	
 	
 	
