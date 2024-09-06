@@ -16,7 +16,7 @@
 	
 	
 	
-	
+	<h1 style="color: purple; font-size: 40px;" align="center">updating new version</h1>
 	
 	
 	
